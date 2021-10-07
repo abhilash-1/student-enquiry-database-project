@@ -1,4 +1,4 @@
-# student-enquiry-database-project
+# Associate Management System - AMS
 This is our first project in big data.In this project we worked on maintaining the students details in an institute like whether they have taken demo of the course or not, if the students have taken the demo how many are prefering to join the course and we worked on many use cases.Now i will explain the data flow of this project. First we have downloaded the data from data hub , after downloading we have loaded the data from LFS to HDFS , then we have mentioned the path in the hive database to load the data and then worked onn some use cases.
 
 # TOOLS AND TECHNOLOGIES
